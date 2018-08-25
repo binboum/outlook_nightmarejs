@@ -1,3 +1,3 @@
-# outlook_phantomjs
+# outlook_nightmare
 
-Send an email with your outlook account using phantomjs
+Send an email with your outlook account using nightmarejs
